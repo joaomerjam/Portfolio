@@ -11,7 +11,7 @@ const projects = [
   },
   {
     number: "02",
-    title: "The Sovereign Risk Engine — Regularization, Classification, and Model Evaluation for Macroeconomic Early Warning Systems,
+    title: "The Sovereign Risk Engine — Regularization, Classification, and Model Evaluation for Macroeconomic Early Warning Systems",
     description:
       "Built a next-generation IMF Early Warning System (EWS) for identifying emerging-market economies at elevated sovereign crisis risk, diagnosing OLS overfitting in high-dimensional WDI data, rebuilding the forecasting engine with Ridge and Lasso regularization, constructing a logistic regression crisis classifier, and evaluating it under real IMF operational constraints using the full classification metrics toolkit.",
     tags: ["Statsmodels", "Plotly", "yfinance"],
